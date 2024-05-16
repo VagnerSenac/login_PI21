@@ -5,7 +5,7 @@
     var senha = document.getElementById("senha").value;
     
 
-    if (usuario === "Picapau" && senha === "123") {
+    if (usuario === "Picapau" && senha === "Csgo_7070!") {
         // Autenticação bem-sucedida
         alert("Acesso Liberado");
       // Redirecionar para página autenticada
